@@ -6,7 +6,7 @@
 - Licenciado en Informática
 - Sifu of Wing Chun Kung Kung Fu
 - University Teacher
-- My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🏋️🧗🧘‍♂️🥊☯⛰️🚶‍♂️
+- My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🏋️🧗🧘‍♂️🥊☯⛰️📷🚶‍♂️
 
 <!---
 FedeLoch/FedeLoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
