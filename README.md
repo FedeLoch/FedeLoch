@@ -2,7 +2,7 @@
 
 
 - Senior Full Stack Software Engineer
-- PhD student in Inria, France
+- PhD student at Inria, France
 - Licenciado en Informática
 - Sifu of Wing Chun Kung Kung Fu
 - University Teacher
