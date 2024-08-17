@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Federico Lochbaum
+### 👋🙂 Hi, I’m Federico Lochbaum
 
 
 - Senior Full Stack Software Engineer
