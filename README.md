@@ -4,7 +4,8 @@
 - Senior Full Stack Software Engineer
 - PhD student in Inria, France
 - Licenciado en Informática
-- Sifu of Wing Chun Kung
+- Sifu of Wing Chun Kung Kung Fu
+- University Teacher
 - My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🏋️🧗🧘‍♂️🥊☯⛰️🚶‍♂️
 
 <!---
