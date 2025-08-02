@@ -7,8 +7,8 @@
 - Sifu of Wing Chun Kung Kung Fu
 - University Teacher
 - My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🏋️🧗🧘‍♂️🥊☯⛰️📷🚶‍♂️
-
-My previous [GitHub](https://github.com/FedeLochbaum)  profile
+- Writing [things](https://medium.com/@federico.lochbaum) occasionally :)
+- My previous [GitHub](https://github.com/FedeLochbaum) profile
 
 <!---
 FedeLoch/FedeLoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
