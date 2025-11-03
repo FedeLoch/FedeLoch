@@ -9,6 +9,7 @@
 - My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🏋️🧗🧘‍♂️🥊☯⛰️📷🚶‍♂️
 - Writing [things](https://medium.com/@federico.lochbaum) occasionally :)
 - My previous [GitHub](https://github.com/FedeLochbaum) profile
+- My [Publications](https://scholar.google.com/citations?user=RmeDDM8AAAAJ&hl=es)
 
 <!---
 FedeLoch/FedeLoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
