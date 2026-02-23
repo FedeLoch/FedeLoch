@@ -6,11 +6,22 @@
 - Licenciado en Informática
 - Sifu of Wing Chun Kung Kung Fu
 - University Teacher
-- My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🏋️🧗🧘‍♂️🥊☯⛰️📷🚶‍♂️
-- Writing [things](https://medium.com/@federico.lochbaum) occasionally :)
+- My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🎨🏋️🧗🧘‍♂️🥊☯⛰️📷🚶‍♂️
+- Writing [Emotia](https://github.com/FedeLoch/Emotia), an epic fantasy story, but it's actually a book about human feelings
+- Writing [Medium Posts](https://medium.com/@federico.lochbaum) occasionally :)
 - My previous [GitHub](https://github.com/FedeLochbaum) profile
-- My [Publications](https://scholar.google.com/citations?user=RmeDDM8AAAAJ&hl=es)
+- My research [Publications](https://scholar.google.com/citations?user=RmeDDM8AAAAJ&hl=es)
 
+#### Main repositories:
+  - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework for Pharo with Performance Fuzzing, Input Minimization, and Automatic Tests Generation.
+  - [Mate](https://github.com/FedeLoch/Mate), an Object Graph Language, Object Graph Grammar-Based Fuzzer with dynamic feedback and Type checking.
+  - [PBA](https://github.com/FedeLoch/PBA), a Benchmark Analyzer. Static and dynamic benchmark feature profiling.
+  - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
+  - [Ñuflo](https://github.com/FP-BAUM/nuflo), an interpreted functional-logic programming language based on the λU-Calculus.
+
+Resources
+
+  - 
 <!---
 FedeLoch/FedeLoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
