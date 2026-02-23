@@ -19,9 +19,6 @@
   - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
   - [Ñuflo](https://github.com/FP-BAUM/nuflo), an interpreted functional-logic programming language based on the λU-Calculus.
 
-Resources
-
-  - 
 <!---
 FedeLoch/FedeLoch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
