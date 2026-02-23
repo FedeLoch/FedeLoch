@@ -13,7 +13,7 @@
 - My research [Publications](https://scholar.google.com/citations?user=RmeDDM8AAAAJ&hl=es)
 
 #### Main repositories:
-  - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework for Pharo with Performance Fuzzing, Input Minimization, and Automatic Tests Generation.
+  - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework with Performance Fuzzing, Input Minimization, and Automatic Tests Generation.
   - [Mate](https://github.com/FedeLoch/Mate), an Object Graph Language, Object Graph Grammar-Based Fuzzer with dynamic feedback and Type checking.
   - [PBA](https://github.com/FedeLoch/PBA), a Benchmark Analyzer. Static and dynamic benchmark feature profiling.
   - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
