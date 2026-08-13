@@ -4,10 +4,10 @@
 - Senior Full Stack Software Engineer
 - PhD student at Inria, France
 - Licenciado en Informática
-- Sifu of Wing Chun Kung Kung Fu
+- Sifu of Wing Chun Kung Fu
 - University Teacher
 - My hobbies ⚽🧤🎾🏓🏹🎯 📚📗☕💻λ✏️🎨🏋️🧗🧘‍♂️🥊☯⛰️📷🚶‍♂️
-- Writing [Emotia](https://github.com/FedeLoch/Emotia), an epic fantasy story, but it's actually a book about human feelings
+- Writing [Emotia](https://fedeloch.github.io/EmotiaPage/), an epic fantasy story, but it's actually a book about human feelings
 - Writing [Medium Posts](https://medium.com/@federico.lochbaum) occasionally :)
 - My previous [GitHub](https://github.com/FedeLochbaum) profile
 - My research [Publications](https://scholar.google.com/citations?user=RmeDDM8AAAAJ&hl=es)
