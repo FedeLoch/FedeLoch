@@ -13,8 +13,9 @@
 - My research [Publications](https://scholar.google.com/citations?user=RmeDDM8AAAAJ&hl=es)
 
 #### Main repositories:
-  - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework with Performance Fuzzing, Input Minimization, and Automatic Tests Generation.
+  - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework with Performance Fuzzing, Input Minimization, and Automatic Test Generation.
   - [Mate](https://github.com/FedeLoch/Mate), an Object Graph Language, Object Graph Grammar-Based Fuzzer with dynamic feedback and Type checking.
+  - [Shin](https://github.com/FedeLoch/Shin), Input Minimization library for Pharo
   - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework
   - [PBA](https://github.com/FedeLoch/PBA), a Benchmark Analyzer. Static and dynamic benchmark feature profiling.
   - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
