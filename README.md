@@ -15,8 +15,9 @@
 #### Main repositories:
   - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework with Performance Fuzzing, Input Minimization, and Automatic Test Generation.
   - [Mate](https://github.com/FedeLoch/Mate), an Object Graph Language, Object Graph Grammar-Based Fuzzer with dynamic feedback and Type checking.
-  - [Shin](https://github.com/FedeLoch/Shin), Input Minimization library for Pharo
-  - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework
+  - [Shin](https://github.com/FedeLoch/Shin), Input Minimization library for Pharo.
+  - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework.
+  - [Researchy](https://github.com/FedeLoch/researchy), An evidence-first research workspace to explore citation graphs, compare findings, develop hypotheses, and export LaTeX tables and BibTeX references.
   - [PBA](https://github.com/FedeLoch/PBA), a Benchmark Analyzer. Static and dynamic benchmark feature profiling.
   - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
   - [Ñuflo](https://github.com/FP-BAUM/nuflo), an interpreted functional-logic programming language based on the λU-Calculus.
