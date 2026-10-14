@@ -19,6 +19,7 @@
   - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework.
   - [Researchy](https://researchy-chi.vercel.app), An evidence research workspace to explore citation graphs, compare findings, develop hypotheses, and export LaTeX tables and BibTeX references.
   - [Snatchy](https://snatchy-swart.vercel.app), A mobile visual instrument for understanding Snatch and Clean movements.
+  - [pharo-live-monitor](https://github.com/FedeLoch/pharo-live-monitor): A tiny always-on activity monitor for your Pharo image.
   - [PBA](https://github.com/FedeLoch/PBA), a Benchmark Analyzer. Static and dynamic benchmark feature profiling.
   - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
   - [Ñuflo](https://github.com/FP-BAUM/nuflo), an interpreted functional-logic programming language based on the λU-Calculus.
