@@ -18,7 +18,9 @@
   - [Shin](https://github.com/FedeLoch/Shin), Input Minimization library for Pharo.
   - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework.
   - [Researchy](https://researchy-chi.vercel.app), An evidence research workspace to explore citation graphs, compare findings, develop hypotheses, and export LaTeX tables and BibTeX references.
-  - [Snatchy](https://snatchy-swart.vercel.app), A mobile visual instrument for understanding Snatch and Clean movements.
+  - [nim](https://nim-sandy.vercel.app/), A Wing Chun training lab that runs entirely in your browser: no account, no upload, your movement stays yours.
+  - [Snatchy](https://play.google.com/apps/testing/com.snatchy.app), A mobile-first visual instrument for understanding Snatch and Clean movements.
+  - [StepPals](https://play.google.com/apps/testing/com.steppals.app), A cozy virtual-pet step tracker. Your real-world steps are the only currency, and they keep a small pixel companion alive, fed, and dressed.
   - [pharo-live-monitor](https://github.com/FedeLoch/pharo-live-monitor): A tiny always-on activity monitor for your Pharo image.
   - [PBA](https://github.com/FedeLoch/PBA), a Benchmark Analyzer. Static and dynamic benchmark feature profiling.
   - [PBE](https://github.com/FedeLoch/PBE), a Pharo Benchmark Evaluator.
