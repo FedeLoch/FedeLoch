@@ -18,6 +18,7 @@
   - [Shin](https://github.com/FedeLoch/Shin), Input Minimization library for Pharo.
   - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework.
   - [Researchy](https://researchy-chi.vercel.app), An evidence research workspace to explore citation graphs, compare findings, develop hypotheses, and export LaTeX tables and BibTeX references.
+  - [cappuccino](https://github.com/FedeLoch/cappuccino), A free, ad-free illustration app for Android tablets, with a small companion that gives you art direction while you work.
   - [nim](https://nim-sandy.vercel.app/), A Wing Chun training lab that runs entirely in your browser: no account, no upload, your movement stays yours.
   - [Godlings](https://godlings-peach.vercel.app/), A calm god game for the web where you shape the land people live on and answer the prayers they send up.
   - [Snatchy](https://play.google.com/apps/testing/com.snatchy.app), A mobile-first visual instrument for understanding Snatch and Clean movements.
