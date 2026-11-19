@@ -16,6 +16,7 @@
   - [Ume](https://github.com/FedeLoch/Ume), a Property-Based Testing Framework with Performance Fuzzing, Input Minimization, and Automatic Test Generation.
   - [Mate](https://github.com/FedeLoch/Mate), an Object Graph Language, Object Graph Grammar-Based Fuzzer with dynamic feedback and Type checking.
   - [Shin](https://github.com/FedeLoch/Shin), Input Minimization library for Pharo.
+  - [PerfUMate](https://github.com/FedeLoch/PerfUMate), All three above together: a few example objects and a benchmark give the slow inputs and crashes of your code, minimized, with SUnit tests that reproduce them.
   - [Termo](https://termo-fuzzing.vercel.app/), A coverage-guided fuzzer for JavaScript/TypeScript, C, and Python. It finds crashes, memory errors, slow inputs, and correctness bugs in real-world libraries.
   - [Insight](https://github.com/FedeLoch/insight), A dynamic meta-instrumentation language framework.
   - [Researchy](https://researchy-chi.vercel.app), An evidence research workspace to explore citation graphs, compare findings, develop hypotheses, and export LaTeX tables and BibTeX references.
